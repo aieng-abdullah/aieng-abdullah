@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=aieng-abdullah&label=Profile%20views&color=0e75b6&style=flat" alt="aieng-abdullah" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Arif!;AI+Engineer+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Arif!;AI+/+ML+Engineer+🚀;" />
 </h1>
 
 <h3 align="center">I specialize in machine learning, deep learning, natural language processing, computer vision, retrieval-augmented generation, large language models, and agentic AI systems — with a focus on building real-world, scalable AI solutions.</h3>
