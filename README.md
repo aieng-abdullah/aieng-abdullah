@@ -68,6 +68,41 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">Certifications</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.datacamp.com/certificate/AIEDA0018268958820">
+  <img src="https://img.shields.io/badge/DataCamp-AI_Engineer_for_Developers_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp Certification"/>
+</a>
+
+<br/><br/>
+
+<b>AI Engineer for Developers Associate</b>
+
+<br/>
+
+Issued by DataCamp · May 2026
+
+<br/><br/>
+
+<a href="https://www.datacamp.com/certificate/AIEDA0018268958820">
+  🔗 View Credential
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-Advanced-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-Systems-green?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic-AI-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/GenAI-Engineering-red?style=flat-square" />
 
 </div>
 
