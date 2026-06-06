@@ -25,65 +25,46 @@
 
 <br/>
 
-<table align="center">
-
+<table align="center" width="100%">
 <tr>
-  <td align="center" valign="top" width="50%">
-    <h4>🤖 AI & Machine Learning</h4>
+  <td align="left" valign="top" width="33%" bgcolor="#0d1117" style="padding: 20px;">
+    <b>Machine Learning</b><br/><br/>
     <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <br/>
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/NLP-09A3D5?style=flat-square&logo=python&logoColor=white" />
   </td>
-  <td align="center" valign="top" width="50%">
-    <h4>🧠 LLMs & Agentic Systems</h4>
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Anthropic%20Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white" />
+  <td align="left" valign="top" width="33%" bgcolor="#0d1117" style="padding: 20px;">
+    <b>Generative AI & LLMs</b><br/><br/>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-    <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=crewai&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+    <br/>
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-    <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  </td>
-</tr>
-
-<tr>
-  <td align="center" valign="top" width="50%">
-    <h4>🔍 RAG & Vector Stores</h4>
-    <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
-    <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/Weaviate-00D2FF?style=flat-square&logo=weaviate&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAG-006aff?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white" />
     <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Agentic%20AI-8b5cf6?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-e11d48?style=flat-square&logoColor=white" />
   </td>
-  <td align="center" valign="top" width="50%">
-    <h4>🎙️ Speech & Audio AI</h4>
-    <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Coqui%20TTS-6EBF26?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyAudio-3670A0?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/librosa-FF6B6B?style=flat-square&logo=python&logoColor=white" />
-  </td>
-</tr>
-
-<tr>
-  <td align="center" valign="top" width="50%">
-    <h4>👁️ Computer Vision & NLP</h4>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
-    <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
-    <img src="https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white" />
-  </td>
-  <td align="center" valign="top" width="50%">
-    <h4>🚀 MLOps & Infrastructure</h4>
-    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <td align="left" valign="top" width="33%" bgcolor="#0d1117" style="padding: 20px;">
+    <b>MLOps & Production</b><br/><br/>
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/ZenML-431D93?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
   </td>
 </tr>
-
 </table>
 
 <br/>
@@ -165,16 +146,16 @@
   </td>
   <td align="center" valign="top" width="33%" bgcolor="#0d1117">
     <br/>
-    <img src="https://img.shields.io/badge/-Speech%20AI-03EF62?style=flat-square&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Responsible%20AI-0ea5e9?style=flat-square&logoColor=white" />
     <br/><br/>
-    <sub>End-to-end voice pipelines<br/>using <b>Whisper</b> STT &<br/><b>ElevenLabs</b> / <b>Coqui</b> TTS</sub>
+    <sub>Alignment, safety evaluation<br/>& bias mitigation across<br/><b>LLM</b> deployment pipelines</sub>
     <br/><br/>
   </td>
   <td align="center" valign="top" width="33%" bgcolor="#0d1117">
     <br/>
-    <img src="https://img.shields.io/badge/-Responsible%20AI-0ea5e9?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MLOps%20%26%20Deployment-03EF62?style=flat-square&logoColor=black" />
     <br/><br/>
-    <sub>Alignment, safety evaluation<br/>& bias mitigation across<br/><b>LLM</b> deployment pipelines</sub>
+    <sub>Containerized AI services with<br/><b>Docker</b>, <b>FastAPI</b> & <b>MLflow</b><br/>for production-grade delivery</sub>
     <br/><br/>
   </td>
 </tr>
