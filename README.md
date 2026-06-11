@@ -15,6 +15,7 @@
 
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:aieng.abdullah.arif@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-arif-8b58542a7)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aieng.abdullah.arif)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffd21e?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 </div>
