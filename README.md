@@ -9,6 +9,20 @@
   multimodal AI, and scalable MLOps infrastructure.
 </p>
 
+<p align="center">
+  Wanna know me? Then see my work or read my blogs. Don't like to talk much :)
+</p>
+
+<p align="center">
+  <a href="https://aieng-abdullah.github.io/portfolio-abdullah/">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  📌 Check the <b>pinned repos</b> below to see my open source work!
+</p>
+
 <br/>
 
 <div align="center">
@@ -16,7 +30,6 @@
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:aieng.abdullah.arif@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-al-arif-8b58542a7)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aieng.abdullah.arif)
-
 
 </div>
 
