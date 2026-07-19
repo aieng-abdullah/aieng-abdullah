@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Wanna know me? Then see my work or read my blogs. Don't like to talk much :)
+  Wanna know me? Then see my work or read my blogs :)
 </p>
 
 <p align="center">
