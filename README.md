@@ -20,7 +20,13 @@
 <p align="center">
   📌 Check the <b>pinned repos</b> below to see my open source work!
 </p>
-
+<div align="center">
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtocmZ4cGw3bTg1bHI3eGRlc3EzYnVoY3dhZnNzZHVsNnVwczNhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"
+    width="600"
+    alt="Coding GIF"
+  />
+</div>
 <br/>
 
 <div align="center">
