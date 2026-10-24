@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  📌 Check the <b>pinned repos</b> below to see my open source work!
+  📌 Check the <b>pinned repos</b> below to see my work!
 </p>
 <div align="center">
   <img
